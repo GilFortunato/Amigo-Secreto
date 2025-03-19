@@ -52,7 +52,7 @@ Acesse a pasta do projeto:
 🌐 Teste ao Vivo
 Você pode testar o projeto ao vivo neste link:
 
-amigo-secreto-bsw6.vercel.app
+https://amigo-secreto-bsw6.vercel.app
 
 
 📄 Licença
